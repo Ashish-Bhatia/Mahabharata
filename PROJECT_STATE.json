@@ -1,0 +1,52 @@
+{
+  "project": "Mahabharata (A Version of the AI Era)",
+  "repository": "https://github.com/Ashish-Bhatia/Mahabharata",
+  "site": "https://ashish-bhatia.github.io/Mahabharata/",
+  "checkpointDate": "2026-10-23",
+  "deployment": {
+    "mode": "Deploy from a branch",
+    "branch": "main",
+    "root": "/",
+    "customGitHubActions": false,
+    "pagesSettingConfirmed": false,
+    "publicSiteVerified": false
+  },
+  "source": {
+    "edition": "BORI Critical Edition",
+    "editionURL": "https://bombay.indology.info/mahabharata/welcome.html",
+    "electronicTextCopyright": "BORI 1999",
+    "publicBulkCopy": false,
+    "localDownloader": "scripts/download_sanskrit.py"
+  },
+  "structure": {
+    "parvas": 18,
+    "adhyayas": 1995,
+    "upaparvaMappingBooks": 17,
+    "unmappedBook": 9,
+    "subdivisionsProvisional": true
+  },
+  "publication": {
+    "passageCount": 11,
+    "start": "01.001.000",
+    "last": "01.001.010",
+    "completedAdhyayas": 0,
+    "sanskritReview": "pending independent second pass"
+  },
+  "next": {
+    "sourceBook": "https://bombay.indology.info/mahabharata/text/UD/MBh01.txt",
+    "parva": 1,
+    "upaparva": "Anukramaṇikā",
+    "adhyaya": 1,
+    "verseStart": "01.001.011",
+    "verseEndForNextBatch": "01.001.020"
+  },
+  "rules": [
+    "Preserve exactly 18 parvas and source ordering.",
+    "Do not silently infer missing subparva chapter boundaries.",
+    "Sanskrit, English, Hindi, modern context, teachings are separate.",
+    "No invented source verses or completion.",
+    "No custom Actions workflows for Pages.",
+    "Update checkpoint with every batch.",
+    "Every response supplies the exact next-chat prompt."
+  ]
+}
