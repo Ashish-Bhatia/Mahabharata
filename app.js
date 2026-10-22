@@ -5,6 +5,7 @@
   const passagesEl = $("#passages");
   let parvas = [];
   let translations = [];
+  let upaparvas = {};
   let state = {book:1,chapter:1,language:"both",query:""};
   const escapeHtml = value => String(value ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
   const pad = (number,width) => String(number).padStart(width,"0");
@@ -64,6 +65,11 @@
     if(!present.length) passagesEl.innerHTML='<div class="pending"><h3>Translation in preparation</h3><p>This adhyāya remains in its original parva position. We will not invent verses or display an unverified translation to fill the gap.</p><p><a target="_blank" rel="noopener noreferrer" href="'+p.source+'">Read this parva in the BORI Sanskrit source ↗</a></p></div>';
     else if(!visible.length) passagesEl.innerHTML='<div class="pending"><h3>No matching published passages</h3><p>Search only covers passages translated and verified so far.</p></div>';
     makeTeachings(visible);
+    const groups=upaparvas[String(state.book)]||[];
+    const activeGroup=groups.find(g=>state.chapter>=g.start&&state.chapter<=g.end);
+    $("#upaparva-index").classList.toggle("hidden",!groups.length);
+    $("#upaparva-list").innerHTML=groups.map(g=>'<button type="button" class="upaparva-button '+(activeGroup===g?'active':'')+'" data-upaparva="'+g.start+'"><span>'+escapeHtml(g.name)+'</span><small>Adhyāyas '+g.start+'–'+g.end+'</small></button>').join("");
+    if(activeGroup) $("#chapter-subtitle").textContent=p.sanskrit+" · "+activeGroup.name+" · Adhyāya "+state.chapter;
     $("#chapter-count").textContent=p.chapters+" chapters in "+p.name+" Parva (BORI Critical Edition). The selected chapter is "+state.chapter+". Chapter buttons preserve edition numbering.";
     const buttons=[];
     for(let n=1;n<=p.chapters;n++){
@@ -78,8 +84,10 @@
   document.addEventListener("click",e=>{
     const bookBtn=e.target.closest("[data-book]");
     const chapterBtn=e.target.closest("[data-chapter]");
+    const subBtn=e.target.closest("[data-upaparva]");
     if(bookBtn) navigate(Number(bookBtn.dataset.book),1);
     if(chapterBtn) navigate(state.book,Number(chapterBtn.dataset.chapter));
+    if(subBtn) navigate(state.book,Number(subBtn.dataset.upaparva));
   });
   $("#prev-chapter").addEventListener("click",()=>{
     if(state.chapter>1) navigate(state.book,state.chapter-1);
@@ -95,7 +103,8 @@
   addEventListener("hashchange",render);
   Promise.all([
     fetch("./data/parvas.json").then(r=>{if(!r.ok)throw new Error("Parvas not found");return r.json()}),
-    fetch("./data/translations.json").then(r=>{if(!r.ok)throw new Error("Translations not found");return r.json()})
-  ]).then(([ps,vs])=>{parvas=ps;translations=vs.passages;$("#progress").textContent=translations.length;render();})
+    fetch("./data/translations.json").then(r=>{if(!r.ok)throw new Error("Translations not found");return r.json()}),
+    fetch("./data/upaparvas.json").then(r=>{if(!r.ok)throw new Error("Subparva map not found");return r.json()})
+  ]).then(([ps,vs,us])=>{parvas=ps;translations=vs.passages;upaparvas=us.books;$("#progress").textContent=translations.length;render();})
     .catch(err=>{$("#chapter-status").textContent="Content could not load. Check the repository Pages settings and JSON paths.";console.error(err)});
 })();

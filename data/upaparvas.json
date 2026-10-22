@@ -1,0 +1,586 @@
+{
+  "mappingStatus": "Provisional secondary-source grouping; book 9 omitted due to inconsistent chapter totals.",
+  "source": "https://huexonline.com/en/knowledge/47/883/",
+  "books": {
+    "1": [
+      {
+        "index": 1,
+        "name": "Anukramaṇikā",
+        "start": 1,
+        "end": 1
+      },
+      {
+        "index": 2,
+        "name": "Parvasaṃgraha",
+        "start": 2,
+        "end": 2
+      },
+      {
+        "index": 3,
+        "name": "Pauṣya",
+        "start": 3,
+        "end": 3
+      },
+      {
+        "index": 4,
+        "name": "Pauloma",
+        "start": 4,
+        "end": 12
+      },
+      {
+        "index": 5,
+        "name": "Āstīka",
+        "start": 13,
+        "end": 53
+      },
+      {
+        "index": 6,
+        "name": "Ādivaṃśāvataraṇa",
+        "start": 54,
+        "end": 58
+      },
+      {
+        "index": 7,
+        "name": "Sambhava",
+        "start": 59,
+        "end": 123
+      },
+      {
+        "index": 8,
+        "name": "Jatugṛhadāha",
+        "start": 124,
+        "end": 138
+      },
+      {
+        "index": 9,
+        "name": "Hiḍimbavadha",
+        "start": 139,
+        "end": 144
+      },
+      {
+        "index": 10,
+        "name": "Bakavadha",
+        "start": 145,
+        "end": 152
+      },
+      {
+        "index": 11,
+        "name": "Caitraratha",
+        "start": 153,
+        "end": 173
+      },
+      {
+        "index": 12,
+        "name": "Draupadīsvayaṃvara",
+        "start": 174,
+        "end": 185
+      },
+      {
+        "index": 13,
+        "name": "Vaivāhika",
+        "start": 186,
+        "end": 191
+      },
+      {
+        "index": 14,
+        "name": "Vidurāgamana",
+        "start": 192,
+        "end": 198
+      },
+      {
+        "index": 15,
+        "name": "Rājyalābha",
+        "start": 199,
+        "end": 199
+      },
+      {
+        "index": 16,
+        "name": "Arjunavanavāsa",
+        "start": 200,
+        "end": 210
+      },
+      {
+        "index": 17,
+        "name": "Subhadrāharaṇa",
+        "start": 211,
+        "end": 212
+      },
+      {
+        "index": 18,
+        "name": "Haraṇāharaṇa",
+        "start": 213,
+        "end": 213
+      },
+      {
+        "index": 19,
+        "name": "Khāṇḍavadāha",
+        "start": 214,
+        "end": 225
+      }
+    ],
+    "2": [
+      {
+        "index": 1,
+        "name": "Sabhā",
+        "start": 1,
+        "end": 11
+      },
+      {
+        "index": 2,
+        "name": "Mantra",
+        "start": 12,
+        "end": 17
+      },
+      {
+        "index": 3,
+        "name": "Jarāsandhavadha",
+        "start": 18,
+        "end": 22
+      },
+      {
+        "index": 4,
+        "name": "Digvijaya",
+        "start": 23,
+        "end": 29
+      },
+      {
+        "index": 5,
+        "name": "Rājasūya",
+        "start": 30,
+        "end": 32
+      },
+      {
+        "index": 6,
+        "name": "Arghābhiharaṇa",
+        "start": 33,
+        "end": 36
+      },
+      {
+        "index": 7,
+        "name": "Śiśupālavadha",
+        "start": 37,
+        "end": 42
+      },
+      {
+        "index": 8,
+        "name": "Dyūta",
+        "start": 43,
+        "end": 65
+      },
+      {
+        "index": 9,
+        "name": "Anudyūta",
+        "start": 66,
+        "end": 72
+      }
+    ],
+    "3": [
+      {
+        "index": 1,
+        "name": "Āraṇyaka",
+        "start": 1,
+        "end": 11
+      },
+      {
+        "index": 2,
+        "name": "Kirmīravadha",
+        "start": 12,
+        "end": 12
+      },
+      {
+        "index": 3,
+        "name": "Kairāta",
+        "start": 13,
+        "end": 42
+      },
+      {
+        "index": 4,
+        "name": "Indralokābhigamana",
+        "start": 43,
+        "end": 79
+      },
+      {
+        "index": 5,
+        "name": "Tīrthayātrā",
+        "start": 80,
+        "end": 153
+      },
+      {
+        "index": 6,
+        "name": "Jaṭāsuravadha",
+        "start": 154,
+        "end": 154
+      },
+      {
+        "index": 7,
+        "name": "Yakṣayuddha",
+        "start": 155,
+        "end": 172
+      },
+      {
+        "index": 8,
+        "name": "Ājagara",
+        "start": 173,
+        "end": 178
+      },
+      {
+        "index": 9,
+        "name": "Mārkaṇḍeyasamasyā",
+        "start": 179,
+        "end": 221
+      },
+      {
+        "index": 10,
+        "name": "Draupadī–Satyabhāmā dialogue",
+        "start": 222,
+        "end": 224
+      },
+      {
+        "index": 11,
+        "name": "Ghoṣayātrā",
+        "start": 225,
+        "end": 243
+      },
+      {
+        "index": 12,
+        "name": "Mṛgasvapna",
+        "start": 244,
+        "end": 244
+      },
+      {
+        "index": 13,
+        "name": "Vrīhidroṇika",
+        "start": 245,
+        "end": 247
+      },
+      {
+        "index": 14,
+        "name": "Draupadīharaṇa",
+        "start": 248,
+        "end": 283
+      },
+      {
+        "index": 15,
+        "name": "Kuṇḍalāharaṇa",
+        "start": 284,
+        "end": 294
+      },
+      {
+        "index": 16,
+        "name": "Āraṇeya",
+        "start": 295,
+        "end": 299
+      }
+    ],
+    "4": [
+      {
+        "index": 1,
+        "name": "Vairāṭa",
+        "start": 1,
+        "end": 12
+      },
+      {
+        "index": 2,
+        "name": "Kīcakavadha",
+        "start": 13,
+        "end": 23
+      },
+      {
+        "index": 3,
+        "name": "Gograhaṇa",
+        "start": 24,
+        "end": 62
+      },
+      {
+        "index": 4,
+        "name": "Vaivāhika",
+        "start": 63,
+        "end": 67
+      }
+    ],
+    "5": [
+      {
+        "index": 1,
+        "name": "Sainyodyoga",
+        "start": 1,
+        "end": 21
+      },
+      {
+        "index": 2,
+        "name": "Sañjayayāna",
+        "start": 22,
+        "end": 32
+      },
+      {
+        "index": 3,
+        "name": "Prajāgara",
+        "start": 33,
+        "end": 41
+      },
+      {
+        "index": 4,
+        "name": "Sanatsujāta",
+        "start": 42,
+        "end": 45
+      },
+      {
+        "index": 5,
+        "name": "Yānasandhi",
+        "start": 46,
+        "end": 69
+      },
+      {
+        "index": 6,
+        "name": "Bhagavadyāna",
+        "start": 70,
+        "end": 134
+      },
+      {
+        "index": 7,
+        "name": "Karṇopavāda",
+        "start": 135,
+        "end": 148
+      },
+      {
+        "index": 8,
+        "name": "Abhiniryāṇa",
+        "start": 149,
+        "end": 152
+      },
+      {
+        "index": 9,
+        "name": "Bhīṣmābhiṣecana",
+        "start": 153,
+        "end": 156
+      },
+      {
+        "index": 10,
+        "name": "Ulūka-yāna",
+        "start": 157,
+        "end": 160
+      },
+      {
+        "index": 11,
+        "name": "Rathātirathasaṃkhyā",
+        "start": 161,
+        "end": 169
+      },
+      {
+        "index": 12,
+        "name": "Ambopākhyāna",
+        "start": 170,
+        "end": 197
+      }
+    ],
+    "6": [
+      {
+        "index": 1,
+        "name": "Jambūkhaṇḍavinirmāṇa",
+        "start": 1,
+        "end": 11
+      },
+      {
+        "index": 2,
+        "name": "Bhūmi",
+        "start": 12,
+        "end": 13
+      },
+      {
+        "index": 3,
+        "name": "Bhagavadgītā section",
+        "start": 14,
+        "end": 40
+      },
+      {
+        "index": 4,
+        "name": "Bhīṣmavadha",
+        "start": 41,
+        "end": 117
+      }
+    ],
+    "7": [
+      {
+        "index": 1,
+        "name": "Droṇābhiṣeka",
+        "start": 1,
+        "end": 15
+      },
+      {
+        "index": 2,
+        "name": "Saṃśaptakavadha",
+        "start": 16,
+        "end": 31
+      },
+      {
+        "index": 3,
+        "name": "Abhimanyuvadha",
+        "start": 32,
+        "end": 51
+      },
+      {
+        "index": 4,
+        "name": "Pratijñā",
+        "start": 52,
+        "end": 60
+      },
+      {
+        "index": 5,
+        "name": "Jayadrathavadha",
+        "start": 61,
+        "end": 121
+      },
+      {
+        "index": 6,
+        "name": "Ghaṭotkacavadha",
+        "start": 122,
+        "end": 154
+      },
+      {
+        "index": 7,
+        "name": "Droṇavadha",
+        "start": 155,
+        "end": 165
+      },
+      {
+        "index": 8,
+        "name": "Nārāyaṇāstramokṣa",
+        "start": 166,
+        "end": 173
+      }
+    ],
+    "8": [
+      {
+        "index": 1,
+        "name": "Karṇavadha",
+        "start": 1,
+        "end": 69
+      }
+    ],
+    "10": [
+      {
+        "index": 1,
+        "name": "Sauptika",
+        "start": 1,
+        "end": 9
+      },
+      {
+        "index": 2,
+        "name": "Aiṣīka",
+        "start": 10,
+        "end": 18
+      }
+    ],
+    "11": [
+      {
+        "index": 1,
+        "name": "Viśoka",
+        "start": 1,
+        "end": 8
+      },
+      {
+        "index": 2,
+        "name": "Strī",
+        "start": 9,
+        "end": 25
+      },
+      {
+        "index": 3,
+        "name": "Śrāddha",
+        "start": 26,
+        "end": 26
+      },
+      {
+        "index": 4,
+        "name": "Jalapradānika",
+        "start": 27,
+        "end": 27
+      }
+    ],
+    "12": [
+      {
+        "index": 1,
+        "name": "Rājadharma",
+        "start": 1,
+        "end": 128
+      },
+      {
+        "index": 2,
+        "name": "Āpaddharma",
+        "start": 129,
+        "end": 167
+      },
+      {
+        "index": 3,
+        "name": "Mokṣadharma",
+        "start": 168,
+        "end": 353
+      }
+    ],
+    "13": [
+      {
+        "index": 1,
+        "name": "Dānadharma",
+        "start": 1,
+        "end": 152
+      },
+      {
+        "index": 2,
+        "name": "Bhīṣmasvargārohaṇa",
+        "start": 153,
+        "end": 154
+      }
+    ],
+    "14": [
+      {
+        "index": 1,
+        "name": "Āśvamedhika",
+        "start": 1,
+        "end": 96
+      }
+    ],
+    "15": [
+      {
+        "index": 1,
+        "name": "Āśramavāsa",
+        "start": 1,
+        "end": 35
+      },
+      {
+        "index": 2,
+        "name": "Putradarśana",
+        "start": 36,
+        "end": 44
+      },
+      {
+        "index": 3,
+        "name": "Nāradāgamana",
+        "start": 45,
+        "end": 47
+      }
+    ],
+    "16": [
+      {
+        "index": 1,
+        "name": "Mausala",
+        "start": 1,
+        "end": 9
+      }
+    ],
+    "17": [
+      {
+        "index": 1,
+        "name": "Mahāprasthānika",
+        "start": 1,
+        "end": 3
+      }
+    ],
+    "18": [
+      {
+        "index": 1,
+        "name": "Svargārohaṇa",
+        "start": 1,
+        "end": 5
+      }
+    ]
+  }
+}
