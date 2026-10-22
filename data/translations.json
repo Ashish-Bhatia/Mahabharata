@@ -1,7 +1,7 @@
 {
   "edition": "BORI Critical Edition, Sanskrit; John Smith/Muneo Tokunaga electronic text",
   "structure": "parva.adhyaya.verse",
-  "translatedThrough": "01.001.010",
+  "translatedThrough": "01.001.020",
   "passages": [
     {
       "verse": 0,
@@ -146,6 +146,132 @@
       "chapter": 1,
       "id": "01.001.010",
       "sourceId": "01001010"
+    },
+    {
+      "verse": 11,
+      "sanskrit": "समन्तपञ्चकं नाम पुण्यं द्विजनिषेवितम्\nगतवानस्मि तं देशं युद्धं यत्राभवत्पुरा\nपाण्डवानां कुरूणां च सर्वेषां च महीक्षिताम्",
+      "english": "I went to the sacred region called Samantapañcaka, frequented by the twice-born, where in former times the battle of the Pāṇḍavas, the Kurus and all the kings took place.",
+      "hindi": "मैं समन्तपञ्चक नामक उस पवित्र प्रदेश में गया, जहाँ द्विज लोग आते हैं और जहाँ पहले पाण्डवों, कुरुओं तथा अन्य सभी राजाओं का युद्ध हुआ था।",
+      "contextEn": "Ugraśravas locates his journey at Samantapañcaka, remembered in the epic as the place of the great war. This is a narrative claim, not independent archaeological verification.",
+      "contextHi": "उग्रश्रवा समन्तपञ्चक की यात्रा बताते हैं। महाकाव्य में यह महान युद्ध की भूमि के रूप में स्मरण किया गया है। यह कथात्मक उल्लेख है, स्वतंत्र पुरातात्त्विक पुष्टि नहीं।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.011",
+      "sourceId": "01001011"
+    },
+    {
+      "verse": 12,
+      "sanskrit": "दिदृक्षुरागतस्तस्मात्समीपं भवतामिह\nआयुष्मन्तः सर्व एव ब्रह्मभूता हि मे मताः",
+      "english": "Desiring to see you, I have come here from there into your presence. Long-lived ones, I regard all of you as having attained a state of closeness to Brahman.",
+      "hindi": "वहाँ से आप सबके दर्शन की इच्छा से मैं यहाँ आपके पास आया हूँ। हे आयुष्मान जनो, मेरी दृष्टि में आप सब ब्रह्मभाव को प्राप्त हैं।",
+      "contextEn": "The narrator respectfully addresses the assembled sages. Brahmabhūta is a spiritual characterization in his speech, not a statement about their social rank.",
+      "contextHi": "कथावाचक उपस्थित ऋषियों को आदरपूर्वक संबोधित करते हैं। ‘ब्रह्मभूत’ यहाँ उनकी आध्यात्मिक स्थिति का वर्णन है, सामाजिक पद का दावा नहीं।",
+      "teachingEn": "Approach those from whom you wish to learn with respect.",
+      "teachingHi": "जिनसे सीखना चाहते हैं, उनके पास आदर के साथ जाएँ।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.012",
+      "sourceId": "01001012"
+    },
+    {
+      "verse": 13,
+      "sanskrit": "अस्मिन्यज्ञे महाभागाः सूर्यपावकवर्चसः\nकृताभिषेकाः शुचयः कृतजप्या हुताग्नयः\nभवन्त आसते स्वस्था ब्रवीमि किमहं द्विजाः",
+      "english": "Fortunate ones, radiant as the sun and fire, here at this sacrifice you sit at ease, having bathed ritually, purified yourselves, performed your recitations and made offerings into the fire. O twice-born ones, what should I speak about?",
+      "hindi": "हे महाभाग जनो! आप सूर्य और अग्नि के समान तेजस्वी हैं। इस यज्ञ में आप विधिपूर्वक स्नान कर, पवित्र होकर, जप पूरा कर और अग्नि में आहुति देकर निश्चिन्त बैठे हैं। हे द्विजो, मैं क्या सुनाऊँ?",
+      "contextEn": "The passage describes the sages' ritual preparation and ends with the storyteller inviting them to choose the subject. It contains three source half-lines (a, c and e).",
+      "contextHi": "यहाँ ऋषियों की यज्ञ-संबंधी तैयारी का वर्णन है। अंत में कथावाचक उनसे विषय पूछते हैं। मूल पाठ में तीन पंक्तियाँ (a, c, e) हैं।",
+      "teachingEn": "Consider your listeners and ask what they seek before beginning an account.",
+      "teachingHi": "कथा या चर्चा आरम्भ करने से पहले श्रोताओं की रुचि पूछें।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.013",
+      "sourceId": "01001013"
+    },
+    {
+      "verse": 14,
+      "sanskrit": "पुराणसंश्रिताः पुण्याः कथा वा धर्मसंश्रिताः\nइतिवृत्तं नरेन्द्राणामृषीणां च महात्मनाम्",
+      "english": "Shall I tell sacred stories connected with the Purāṇas, or those concerning dharma, or accounts of kings and great-souled sages?",
+      "hindi": "क्या मैं पुराणों से जुड़ी पवित्र कथाएँ सुनाऊँ, या धर्म से संबंधित कथाएँ, अथवा राजाओं और महात्मा ऋषियों के वृत्तान्त?",
+      "contextEn": "The offered subjects include sacred traditional narrative, dharma and accounts of rulers and sages. This question completes the invitation begun in verse 13.",
+      "contextHi": "विषय के विकल्पों में पुराण-कथाएँ, धर्म-विषयक आख्यान और राजाओं तथा ऋषियों के वृत्तान्त आते हैं। यह प्रश्न श्लोक 13 से जुड़ा है।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.014",
+      "sourceId": "01001014"
+    },
+    {
+      "verse": 15,
+      "sanskrit": "ऋषय ऊचुः\nद्वैपायनेन यत्प्रोक्तं पुराणं परमर्षिणा\nसुरैर्ब्रह्मर्षिभिश्चैव श्रुत्वा यदभिपूजितम्",
+      "english": "The sages said: 'That ancient narrative which the great seer Dvaipāyana spoke, and which, upon hearing it, the gods and brahmarṣis honoured…'",
+      "hindi": "ऋषियों ने कहा: ‘जिस पुरातन आख्यान को परम ऋषि द्वैपायन ने कहा और जिसे सुनकर देवताओं तथा ब्रह्मर्षियों ने आदर दिया…’",
+      "contextEn": "The sages begin a request extending through verse 19. Their praise expresses the narrative's traditional authority; the quotation is intentionally incomplete here.",
+      "contextHi": "ऋषियों का अनुरोध श्लोक 19 तक चलता है। उनका सम्मानसूचक वर्णन इस परंपरा में ग्रंथ की प्रतिष्ठा दिखाता है। यहाँ कथन जानबूझकर अधूरा रखा गया है।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.015",
+      "sourceId": "01001015"
+    },
+    {
+      "verse": 16,
+      "sanskrit": "तस्याख्यानवरिष्ठस्य विचित्रपदपर्वणः\nसूक्ष्मार्थन्याययुक्तस्य वेदार्थैर्भूषितस्य च",
+      "english": "…that foremost of narratives, varied in its expressions and sections, joined to subtle meanings and reasoned argument, and adorned with the meanings of the Vedas…",
+      "hindi": "‘…उस श्रेष्ठ आख्यान का, जिसके शब्द और प्रसंग विविध हैं, जो सूक्ष्म अर्थ और युक्तिपूर्ण विवेचन से युक्त है तथा वेदों के अर्थों से अलंकृत है…’",
+      "contextEn": "The sages emphasize literary variety, interpretive depth, reasoning and Vedic associations. This continues their unfinished request from verse 15.",
+      "contextHi": "ऋषि साहित्यिक विविधता, गहरे अर्थ, तर्कपूर्ण विवेचन और वैदिक संदर्भों को महत्त्व देते हैं। यह श्लोक 15 में शुरू हुए अनुरोध का भाग है।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.016",
+      "sourceId": "01001016"
+    },
+    {
+      "verse": 17,
+      "sanskrit": "भारतस्येतिहासस्य पुण्यां ग्रन्थार्थसंयुताम्\nसंस्कारोपगतां ब्राह्मीं नानाशास्त्रोपबृंहिताम्",
+      "english": "…the sacred, carefully composed account of the history of the Bhāratas, refined, pertaining to sacred knowledge, and enriched by many branches of learning…",
+      "hindi": "‘…भरतवंश के इतिहास के उस पवित्र, सुसंगठित ग्रंथ का, जो परिष्कृत है, ब्रह्मविद्या से संबद्ध है और अनेक शास्त्रों से समृद्ध है…’",
+      "contextEn": "Here itihāsa identifies the account as traditional history or remembered narrative. Brāhmī refers to its sacred intellectual character, not a claim about the Brāhmī writing system.",
+      "contextHi": "यहाँ ‘इतिहास’ परंपरा में स्मरण की गई कथा के अर्थ में है। ‘ब्राह्मी’ इसके पवित्र ज्ञान-संबंध को दर्शाता है, ब्राह्मी लिपि का उल्लेख नहीं।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.017",
+      "sourceId": "01001017"
+    },
+    {
+      "verse": 18,
+      "sanskrit": "जनमेजयस्य यां राज्ञो वैशंपायन उक्तवान्\nयथावत्स ऋषिस्तुष्ट्या सत्रे द्वैपायनाज्ञया",
+      "english": "…which the sage Vaiśampāyana recited faithfully and gladly at King Janamejaya's sacrificial session, at Dvaipāyana's command…",
+      "hindi": "‘…जिसे ऋषि वैशंपायन ने द्वैपायन की आज्ञा से राजा जनमेजय के यज्ञ-सत्र में प्रसन्नतापूर्वक, यथावत् सुनाया था…’",
+      "contextEn": "This reconnects the sages' request with the epic's stated transmission: Dvaipāyana, Vaiśampāyana and Janamejaya's sacrificial assembly.",
+      "contextHi": "यह श्लोक कथा की कथन-परंपरा को फिर जोड़ता है: द्वैपायन, वैशंपायन और जनमेजय की यज्ञ-सभा।",
+      "teachingEn": "When recounting inherited knowledge, acknowledge who transmitted it.",
+      "teachingHi": "परंपरा से मिली जानकारी सुनाते समय उसके कथन-स्रोत का उल्लेख करें।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.018",
+      "sourceId": "01001018"
+    },
+    {
+      "verse": 19,
+      "sanskrit": "वेदैश्चतुर्भिः समितां व्यासस्याद्भुतकर्मणः\nसंहितां श्रोतुमिच्छामो धर्म्यां पापभयापहाम्",
+      "english": "…we wish to hear the righteous compilation of Vyāsa, whose deeds are wondrous, regarded alongside the four Vedas and said to dispel the fear of sin.'",
+      "hindi": "‘…हम अद्भुत कर्म वाले व्यास की उस धर्ममयी संहिता को सुनना चाहते हैं, जिसकी तुलना चारों वेदों से की गई है और जिसे पाप के भय को दूर करने वाली कहा गया है।’",
+      "contextEn": "The request begun in verse 15 now concludes. The comparison with the four Vedas and the attributed spiritual benefit are claims made by the sages within the text.",
+      "contextHi": "श्लोक 15 में आरम्भ हुआ अनुरोध यहाँ पूरा होता है। चार वेदों से तुलना और पाप-भय दूर होने की बात पाठ के भीतर ऋषियों के कथन हैं।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.019",
+      "sourceId": "01001019"
+    },
+    {
+      "verse": 20,
+      "sanskrit": "सूत उवाच\nआद्यं पुरुषमीशानं पुरुहूतं पुरुष्टुतम्\nऋतमेकाक्षरं ब्रह्म व्यक्ताव्यक्तं सनातनम्",
+      "english": "Sūta said: '[I revere] the primordial Person, the sovereign Lord, invoked and praised by many, the eternal Brahman, truth (ṛta), of a single syllable, both manifest and unmanifest…'",
+      "hindi": "सूत ने कहा: ‘[मैं वंदना करता हूँ] आदि पुरुष, ईश्वर की, जिन्हें अनेक लोग पुकारते और स्तुति करते हैं; उस सनातन ब्रह्म की, जो ऋतस्वरूप, एकाक्षर तथा व्यक्त और अव्यक्त दोनों है…’",
+      "contextEn": "Sūta begins an invocation rather than the narrative proper. Its grammar continues into verses 21–23, where the act of salutation and the intention to narrate are stated. The supplied verb in square brackets is not present in this verse alone.",
+      "contextHi": "सूत कथा से पहले वंदना शुरू करते हैं। इसका व्याकरण श्लोक 21–23 तक चलता है, जहाँ नमस्कार और कथा-कथन की बात स्पष्ट होती है। वर्ग कोष्ठक का क्रियापद इस अकेले श्लोक में नहीं है।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.020",
+      "sourceId": "01001020"
     }
   ]
 }
