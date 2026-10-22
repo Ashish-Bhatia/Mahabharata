@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#10252a">
+  <meta name="description" content="Mahabharata (A Version of the AI Era): the 18-parva Sanskrit epic with verse-by-verse English and Hindi translations, context, and separately identified teachings.">
+  <title>Mahabharata | A Version of the AI Era</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to reading</a>
+  <div class="site">
+    <header class="top">
+      <button id="menu" class="menu-button" type="button" aria-label="Open book navigation" aria-controls="sidebar" aria-expanded="false">☰</button>
+      <a class="brand" href="#/1/1" aria-label="Mahabharata home"><span class="brandmark">म</span><span><strong>MAHABHARATA</strong><small>A Version of the AI Era</small></span></a>
+      <div class="top-meta"><span class="dot"></span><span>18 PARVAS · ORIGINAL ORDER</span></div>
+      <a class="source-top" href="https://bombay.indology.info/mahabharata/welcome.html" target="_blank" rel="noopener noreferrer">Sanskrit edition ↗</a>
+    </header>
+    <div class="layout">
+      <aside class="sidebar" id="sidebar" aria-label="Original Mahabharata parva navigation">
+        <div class="sidebar-head"><span class="eyebrow">THE COMPLETE EPIC</span><p>Book navigation</p><small>18 parvas in textual sequence</small></div>
+        <nav id="books" aria-label="Parvas"></nav>
+        <div class="sidebar-foot"><a href="https://github.com/Ashish-Bhatia/Mahabharata" target="_blank" rel="noopener noreferrer">Project repository ↗</a><small>Translations released sequentially. Untranslated chapters remain clearly marked.</small></div>
+      </aside>
+      <main id="main" tabindex="-1">
+        <section class="hero">
+          <div class="hero-line"><span class="eyebrow">A CLASSIC, READ WITH CARE</span><span class="index-tag" id="parva-count">BOOK 01 OF 18</span></div>
+          <h1>Mahābhārata<span class="hero-period">.</span></h1>
+          <p class="hero-dev">महाभारतम्</p>
+          <p class="hero-lede">The Sanskrit text, followed in its own order. Read every published passage in the original, in English, in Hindi, and with contemporary context kept distinct from the translation.</p>
+          <div class="hero-actions"><span><b id="progress">11</b> translated passages</span><span>18 original parvas</span><span>Critical edition</span></div>
+        </section>
+        <section class="reader">
+          <div class="reader-header"><div><span class="eyebrow" id="crumb">PARVA 01 / ADHYAYA 001</span><h2 id="chapter-title">Ādi Parva</h2><p id="chapter-subtitle">आदिपर्व · Chapter 1</p></div>
+            <div class="lang-wrap"><label for="language">Reading view</label><select id="language"><option value="both">English + Hindi</option><option value="en">English</option><option value="hi">हिन्दी</option></select></div>
+          </div>
+          <div class="chapter-tools"><div class="chap-search"><label for="search">Search published passages</label><input id="search" placeholder="Search Sanskrit, English, Hindi…" type="search" autocomplete="off"></div><a id="primary-source" href="#" target="_blank" rel="noopener noreferrer">View original Sanskrit (.txt) ↗</a></div>
+          <div class="status" id="chapter-status"></div>
+          <div id="passages" class="passages" aria-live="polite"></div>
+          <section class="teachings" id="teachings"><span class="eyebrow">DISTILLED FROM THE PASSAGES</span><h3>Teachings and reflections</h3><p class="note">Editorial reflections are separate from the original Sanskrit and from the translation.</p><div id="teaching-list"></div></section>
+          <section class="chapter-index"><div class="section-title"><div><span class="eyebrow">ORIGINAL TEXTUAL ORDER</span><h3>Adhyāya index</h3></div><div class="index-steps"><button id="prev-chapter" type="button">← Previous</button><button id="next-chapter" type="button">Next →</button></div></div><p class="note" id="chapter-count"></p><div id="chapter-grid" class="chapter-grid"></div></section>
+        </section>
+        <footer class="footer"><p>This is an editorial translation project, not a replacement for a scholarly edition. Manuscript traditions differ. Sanskrit source: BORI Critical Edition electronic text, via John Smith and Muneo Tokunaga. <a href="https://bori.ac.in/department/mahabharata/" target="_blank" rel="noopener noreferrer">About the edition ↗</a></p><p>Source text copyright and attribution are respected. The 18 source files are linked, not republished wholesale. <a href="https://github.com/Ashish-Bhatia/Mahabharata/blob/main/CONTINUITY.md" target="_blank" rel="noopener noreferrer">Editorial and progress notes ↗</a></p></footer>
+      </main>
+    </div>
+  </div>
+  <script src="./app.js" defer></script>
+</body>
+</html>
