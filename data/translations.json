@@ -1,7 +1,7 @@
 {
   "edition": "BORI Critical Edition, Sanskrit; John Smith/Muneo Tokunaga electronic text",
   "structure": "parva.adhyaya.verse",
-  "translatedThrough": "01.001.020",
+  "translatedThrough": "01.001.030",
   "passages": [
     {
       "verse": 0,
@@ -272,6 +272,132 @@
       "chapter": 1,
       "id": "01.001.020",
       "sourceId": "01001020"
+    },
+    {
+      "verse": 21,
+      "sanskrit": "असच्च सच्चैव च यद्विश्वं सदसतः परम्\nपरावराणां स्रष्टारं पुराणं परमव्ययम्",
+      "english": "That which is both non-being and being, which is the universe and yet beyond being and non-being; the ancient, supremely imperishable creator of the higher and the lower...",
+      "hindi": "जो असत् भी है और सत् भी, जो समस्त विश्व है और फिर भी सत् तथा असत् से परे है; जो ऊँचे और नीचे सभी का स्रष्टा, पुरातन तथा परम अविनाशी है...",
+      "contextEn": "Sūta continues the invocation begun at 01.001.020. These are theological descriptions of the reality he salutes, not a separate account of the universe's physical origins. The grammatical act of salutation appears in verse 22.",
+      "contextHi": "सूत 01.001.020 में आरम्भ हुई वंदना जारी रखते हैं। ये उस परम सत्ता के दार्शनिक-धार्मिक विशेषण हैं, जिसकी वे वंदना कर रहे हैं। नमस्कार की क्रिया अगले श्लोक में आती है।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.021",
+      "sourceId": "01001021"
+    },
+    {
+      "verse": 22,
+      "sanskrit": "मङ्गल्यं मङ्गलं विष्णुं वरेण्यमनघं शुचिम्\nनमस्कृत्य हृषीकेशं चराचरगुरुं हरिम्",
+      "english": "Having bowed to Viṣṇu, auspicious and auspiciousness itself, worthy of reverence, stainless and pure; to Hṛṣīkeśa, Hari, teacher of all moving and unmoving beings...",
+      "hindi": "मंगलमय और मंगलस्वरूप, वरणीय, निष्पाप तथा पवित्र विष्णु को, चर-अचर के गुरु हृषीकेश हरि को नमस्कार करके...",
+      "contextEn": "The Sanskrit supplies namaskṛtya, 'having bowed', completing the devotional construction of verses 20–22. The ensuing promise to narrate comes in verse 23. Viṣṇu, Hṛṣīkeśa and Hari are names used within this invocation.",
+      "contextHi": "इस श्लोक का ‘नमस्कृत्य’ (नमस्कार करके) श्लोक 20–22 की वंदना को व्याकरणिक रूप से जोड़ता है। कथा कहने की घोषणा श्लोक 23 में आती है। यहाँ विष्णु, हृषीकेश और हरि नाम प्रयुक्त हैं।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.022",
+      "sourceId": "01001022"
+    },
+    {
+      "verse": 23,
+      "sanskrit": "महर्षेः पूजितस्येह सर्वलोके महात्मनः\nप्रवक्ष्यामि मतं कृत्स्नं व्यासस्यामिततेजसः",
+      "english": "I shall expound in full the teaching of the great-souled sage Vyāsa, revered throughout the world, whose splendour is immeasurable.",
+      "hindi": "अब मैं संसार भर में पूजित, महात्मा और अमित तेज वाले महर्षि व्यास के मत का पूरा वर्णन करूँगा।",
+      "contextEn": "Sūta closes the invocation and states whose account he will present. 'I shall expound' is his claim within the narrative frame; it does not mean this website has already completed the text.",
+      "contextHi": "सूत वंदना पूरी करके बताते हैं कि वे किसका मत सुनाएँगे। ‘पूरा वर्णन करूँगा’ कथावाचक का कथन है, वेबसाइट पर सभी श्लोक प्रकाशित हो जाने का दावा नहीं।",
+      "teachingEn": "Name the source of a teaching when you pass it on.",
+      "teachingHi": "किसी शिक्षा को आगे सुनाते समय उसके स्रोत का नाम दें।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.023",
+      "sourceId": "01001023"
+    },
+    {
+      "verse": 24,
+      "sanskrit": "आचख्युः कवयः केचित्संप्रत्याचक्षते परे\nआख्यास्यन्ति तथैवान्ये इतिहासमिमं भुवि",
+      "english": "Some poets have narrated this history; others recount it now, and still others will narrate it on earth in times to come.",
+      "hindi": "कुछ कवियों ने इस इतिहास का वर्णन किया है, दूसरे आज भी इसे सुनाते हैं, और भविष्य में अन्य लोग भी पृथ्वी पर इसका वर्णन करेंगे।",
+      "contextEn": "The verse presents the Mahābhārata as a transmitted narrative across past, present and future tellers. Itihāsa is the epic's own term for this remembered account.",
+      "contextHi": "यह श्लोक महाभारत को अतीत, वर्तमान और भविष्य के कथावाचकों से जुड़ी परंपरा के रूप में प्रस्तुत करता है। ‘इतिहास’ यहाँ ग्रंथ की अपनी संज्ञा है।",
+      "teachingEn": "A living tradition is carried forward through successive tellers.",
+      "teachingHi": "कथन-परंपरा आगे आने वाले वक्ताओं के माध्यम से चलती रहती है।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.024",
+      "sourceId": "01001024"
+    },
+    {
+      "verse": 25,
+      "sanskrit": "इदं तु त्रिषु लोकेषु महज्ज्ञानं प्रतिष्ठितम्\nविस्तरैश्च समासैश्च धार्यते यद्द्विजातिभिः",
+      "english": "This great knowledge is established in the three worlds; the twice-born preserve it in both expanded and concise forms.",
+      "hindi": "यह महान ज्ञान तीनों लोकों में प्रतिष्ठित है; द्विज इसे विस्तृत और संक्षिप्त, दोनों रूपों में धारण करते हैं।",
+      "contextEn": "The three worlds belong to the verse's cosmological vocabulary. The verse names the 'twice-born' as its preservers, reflecting the text's social and ritual setting. It also recognizes both full and abridged modes of transmission.",
+      "contextHi": "‘तीनों लोक’ श्लोक की पारंपरिक विश्व-कल्पना का भाग है। ज्ञान के धारक के रूप में ‘द्विज’ का उल्लेख तत्कालीन सामाजिक और अनुष्ठानिक संदर्भ दिखाता है। विस्तृत और संक्षिप्त, दोनों कथन-रूप मान्य हैं।",
+      "teachingEn": "Detailed accounts and accurate summaries serve different needs; preserve the meaning in either form.",
+      "teachingHi": "विस्तृत विवरण और सटीक सार अलग-अलग जरूरतें पूरी करते हैं; दोनों में अर्थ सुरक्षित रखें।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.025",
+      "sourceId": "01001025"
+    },
+    {
+      "verse": 26,
+      "sanskrit": "अलंकृतं शुभैः शब्दैः समयैर्दिव्यमानुषैः\nछन्दोवृत्तैश्च विविधैरन्वितं विदुषां प्रियम्",
+      "english": "Adorned with auspicious words and with divine and human conventions, furnished with varied metres and verse-forms, it is dear to the learned.",
+      "hindi": "शुभ शब्दों तथा दिव्य और मानवीय परंपरागत मान्यताओं से अलंकृत, विविध छंदों और वृत्तों से युक्त यह ग्रंथ विद्वानों को प्रिय है।",
+      "contextEn": "This praises the composition's diction and poetic forms. Samaya can denote accepted conventions or established principles; 'divine and human conventions' renders the source without equating it with a modern scientific theory.",
+      "contextHi": "यहाँ ग्रंथ की भाषा और छंद-योजना की प्रशंसा है। ‘समय’ का अर्थ स्वीकृत परंपरा या मान्यता भी होता है; इसे आधुनिक वैज्ञानिक सिद्धांत का उल्लेख नहीं समझना चाहिए।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.026",
+      "sourceId": "01001026"
+    },
+    {
+      "verse": 27,
+      "sanskrit": "निष्प्रभेऽस्मिन्निरालोके सर्वतस्तमसावृते\nबृहदण्डमभूदेकं प्रजानां बीजमक्षयम्",
+      "english": "When this world was without radiance, without light, and covered on every side by darkness, a single great egg arose, the inexhaustible seed of living beings.",
+      "hindi": "जब यह जगत् तेजहीन, प्रकाशरहित और चारों ओर से अंधकार से ढका हुआ था, तब प्राणियों के अक्षय बीज के रूप में एक विशाल अंड उत्पन्न हुआ।",
+      "contextEn": "Sūta turns from the invocation and transmission of the epic to a traditional creation account. The 'great egg' is a cosmological image in the narrative, not an empirically verified account of the physical Big Bang.",
+      "contextHi": "अब सूत ग्रंथ की परंपरा से सृष्टि-वर्णन की ओर आते हैं। ‘विशाल अंड’ पारंपरिक सृष्टि-कल्पना का रूपक है, आधुनिक भौतिक ब्रह्मांड-विज्ञान का सत्यापित विवरण नहीं।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.027",
+      "sourceId": "01001027"
+    },
+    {
+      "verse": 28,
+      "sanskrit": "युगस्यादौ निमित्तं तन्महद्दिव्यं प्रचक्षते\nयस्मिंस्तच्छ्रूयते सत्यं ज्योतिर्ब्रह्म सनातनम्",
+      "english": "At the beginning of the age, they call that a great divine originating cause. Within it, it is said, is the true light, eternal Brahman.",
+      "hindi": "युग के आरम्भ में उसे महान दिव्य कारण कहा जाता है। कहा जाता है कि उसी में सत्यस्वरूप ज्योति, सनातन ब्रह्म विद्यमान है।",
+      "contextEn": "The narration uses 'they say' and 'it is heard', marking an inherited account. The verse links the cosmic egg of 27 with eternal Brahman in its religious cosmology.",
+      "contextHi": "‘कहा जाता है’ और ‘सुना जाता है’ जैसे शब्द इसे परंपरा से प्राप्त वर्णन के रूप में प्रस्तुत करते हैं। श्लोक 27 के ब्रह्मांडीय अंड का संबंध यहाँ सनातन ब्रह्म से जोड़ा गया है।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.028",
+      "sourceId": "01001028"
+    },
+    {
+      "verse": 29,
+      "sanskrit": "अद्भुतं चाप्यचिन्त्यं च सर्वत्र समतां गतम्\nअव्यक्तं कारणं सूक्ष्मं यत्तत्सदसदात्मकम्",
+      "english": "Wondrous and inconceivable, equally present everywhere, unmanifest and subtle, it is the cause whose nature encompasses both being and non-being.",
+      "hindi": "वह अद्भुत और अचिंत्य है, सर्वत्र समान रूप से व्याप्त है; अव्यक्त और सूक्ष्म कारण है, जिसका स्वरूप सत् और असत् दोनों से युक्त है।",
+      "contextEn": "These attributes continue the description of the primal cause introduced in verses 27–28. Being and non-being are philosophical terms in the passage; no modern physical mechanism is asserted.",
+      "contextHi": "ये विशेषण श्लोक 27–28 में वर्णित आदि कारण को आगे स्पष्ट करते हैं। ‘सत्’ और ‘असत्’ दार्शनिक पद हैं; श्लोक आधुनिक भौतिक प्रक्रिया की व्याख्या नहीं कर रहा।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.029",
+      "sourceId": "01001029"
+    },
+    {
+      "verse": 30,
+      "sanskrit": "यस्मात्पितामहो जज्ञे प्रभुरेकः प्रजापतिः\nब्रह्मा सुरगुरुः स्थाणुर्मनुः कः परमेष्ठ्यथ",
+      "english": "From it arose the Grandsire, the sole lord of creatures, Prajāpati. The verse also names Brahmā, the teacher of the gods, Sthāṇu, Manu, Ka and Parameṣṭhin.",
+      "hindi": "उसी से पितामह, प्रजाओं के एकमात्र प्रभु प्रजापति उत्पन्न हुए। श्लोक में ब्रह्मा, देवगुरु, स्थाणु, मनु, क और परमेष्ठी नामों का भी उल्लेख है।",
+      "contextEn": "This continues the traditional cosmogony. The Sanskrit juxtaposes several divine names and titles; their precise relationship should not be flattened into a modern genealogy. The account continues in verse 31.",
+      "contextHi": "यह पारंपरिक सृष्टि-वर्णन आगे बढ़ता है। संस्कृत में कई दैवी नाम और उपाधियाँ साथ आती हैं; इनके संबंध को बिना प्रमाण आधुनिक वंशावली के रूप में नहीं बाँधना चाहिए। प्रसंग श्लोक 31 में जारी है।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.030",
+      "sourceId": "01001030"
     }
   ]
 }

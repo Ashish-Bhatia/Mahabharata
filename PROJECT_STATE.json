@@ -12,7 +12,7 @@
     "publicSiteVerified": false,
     "repositoryStructureVerified": true,
     "noCustomWorkflowsVerified": true,
-    "note": "Root index.html and relative assets found, with no .github/workflows paths; GitHub Pages settings and public URL not independently accessible."
+    "note": "Public repository advertises has_pages=true; main tree contains root index.html, .nojekyll and no .github/workflows paths. Direct Pages URL fetch was blocked and Pages branch/root settings are not readable with current access; public live availability and source settings remain unverified."
   },
   "source": {
     "edition": "BORI Critical Edition",
@@ -29,17 +29,18 @@
     "subdivisionsProvisional": true
   },
   "publication": {
-    "passageCount": 21,
+    "passageCount": 31,
     "start": "01.001.000",
-    "last": "01.001.020",
+    "last": "01.001.030",
     "completedAdhyayas": 0,
-    "sanskritReview": "01.001.011–01.001.020 checked against BORI electronic source lines; independent second pass still pending",
+    "sanskritReview": "01.001.011–01.001.030 checked against BORI electronic verse lines in two batches; independent second-pass philological review still pending",
     "lastBatch": {
-      "start": "01.001.011",
-      "end": "01.001.020",
+      "start": "01.001.021",
+      "end": "01.001.030",
       "count": 10,
-      "sourceLineKeys": "01001011–01001020",
-      "commitMessage": "Translate Anukramanika 01.001.011-020 and advance checkpoints"
+      "sourceLineKeys": "01001021–01001030",
+      "commitMessage": "Translate Anukramanika 01.001.021-030 and advance checkpoints",
+      "baseMainCommit": "41de98eaa124bbd58771308c5db1bbfc41ed0b5c"
     }
   },
   "next": {
@@ -47,8 +48,8 @@
     "parva": 1,
     "upaparva": "Anukramaṇikā",
     "adhyaya": 1,
-    "verseStart": "01.001.021",
-    "verseEndForNextBatch": "01.001.030"
+    "verseStart": "01.001.031",
+    "verseEndForNextBatch": "01.001.040"
   },
   "rules": [
     "Preserve exactly 18 parvas and source ordering.",
