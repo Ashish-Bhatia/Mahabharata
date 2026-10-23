@@ -1,5 +1,5 @@
 # MASTER CONTINUITY CHECKPOINT
-Checkpoint dated: 23 October 2026. Translation batch 01.001.021–01.001.030.
+Checkpoint dated: 23 October 2026. Translation batch 01.001.031–01.001.040.
 
 This repository file is the persistent project handoff. It MUST be read at the start of every new session and updated in the same commit as any new translated passages. PROJECT_STATE.json is the machine-readable counterpart.
 
@@ -32,8 +32,8 @@ Do not merge Harivaṃśa, popular later retellings, or other recensions into th
 - Provisional sub-parva navigation, with source qualification and a known gap.
 - English + Hindi bilingual controls, Sanskrit, modern context and optional separate teachings.
 - Search limited to translated passages, responsive sidebar and stable hash navigation.
-- Published passage range: 01.001.000–01.001.030 inclusive (31 units, including the opening invocation and prose).
-- Initial bilingual translations are editorial drafts awaiting a separate independent Sanskrit review. Verses 01.001.011–01.001.030 were checked against the BORI Devanāgarī e-text in consecutive batches, including the 011e and 013e pādas and the speaker attributions at 015 and 020. Verses 021–030 continue Sūta's speech and contain no new speaker marker. No chapter is marked fully translated.
+- Published passage range: 01.001.000–01.001.040 inclusive (41 units, including the opening invocation and prose).
+- Initial bilingual translations remain editorial drafts awaiting independent Sanskrit and translation review. Verses 01.001.011–01.001.040 were checked against consecutive BORI Devanāgarī e-text lines, including the 011e and 013e pādas and speaker attributions at 015 and 020. Verses 021–040 continue Sūta's speech, without any new speaker marker. New verses 031–040 have explicit a/c pāda identifiers in the dataset. No chapter is marked fully translated.
 - Script to download 18 academic Sanskrit e-text files to ignored local folder, preserving hash manifest.
 - Full electronic text is NOT republished due to the BORI electronic-text copyright notice.
 
@@ -46,8 +46,8 @@ The current repository tree contains a root index.html, .nojekyll and relative s
 Book 01, Ādi Parva.
 Sub-parva 01, Anukramaṇikā.
 Adhyāya 001.
-Next Sanskrit passage ID: 01.001.031.
-Translate IDs 01.001.031 through 01.001.040, with all Sanskrit pādas and any speaker markers. Primary source:
+Next Sanskrit passage ID: 01.001.041.
+Translate IDs 01.001.041 through 01.001.050, with all Sanskrit pādas and any speaker markers. Primary source:
 https://bombay.indology.info/mahabharata/text/UD/MBh01.txt
 
 Update data/translations.json, CONTINUITY.md and PROJECT_STATE.json in one commit and check site behavior. Do not skip, duplicate, reorder, summarize instead of translating, or fabricate any verse. Carry forward the exact subsequent passage ID.
@@ -62,7 +62,7 @@ Update data/translations.json, CONTINUITY.md and PROJECT_STATE.json in one commi
 6. Record last published ID, scope, change commit and next exact ID.
 7. Never conflate a browsing chapter placeholder with a completed translation.
 
-## Last batch record
+## Prior batch record (01.001.021–01.001.030)
 
 - Source checked directly: BORI Ādi Parva electronic text, verse keys 01001021–01001030 (all ten with a and c half-lines).
 - Published in this batch: 01.001.021–01.001.030 (10 passages), in exact verse order. No new speaker headings in this range; Sūta's speech from 020 continues. The invocation concludes at 023, the textual-transmission discussion continues at 024–026, and a cosmogonic passage begins at 027.
@@ -72,6 +72,16 @@ Update data/translations.json, CONTINUITY.md and PROJECT_STATE.json in one commi
 - Sanskrit verified to electronic source line labels; independent textual/translation second pass remains open.
 - No complete adhyāya should be claimed yet.
 
+## Latest batch record (01.001.031–01.001.040)
+
+- Source checked: BORI Ādi Parva electronic text, source line keys 01001031a–01001040c, all ten verses having their a and c lines; no new speaker marker. Sūta's speech from 01.001.020 continues.
+- Published this batch: 01.001.031–01.001.040, 10 passages in source sequence; cosmogonic enumeration (031–035), dissolution and recurring cycles (036–038), numerical account of devas (039), and divine/solar names (040, continuing into 041).
+- All earlier published passages remain unchanged. New entries store exact per-pāda source IDs as metadata without changing the reader's established Sanskrit / English / Hindi / editorial context fields.
+- One atomic commit on main updates data/translations.json, CONTINUITY.md and PROJECT_STATE.json; commit message: `Translate Anukramanika 01.001.031-040 and advance checkpoints`; parent commit: `a215b91793ab6d0c733ecaf7289d3d2681b81da0`. Find resulting commit SHA in GitHub history, since a commit cannot embed its own SHA.
+- Last published: 01.001.040. Next exact: 01.001.041, batch 01.001.041–01.001.050. Total passages: 41, including opening invocation and prose.
+- Reader code and other site files remain unchanged. JSON structure and identifier sequence verified before commit; runtime Pages delivery and Pages branch/root setting remain independently unverified because these endpoints are inaccessible in the checker.
+- The BORI electronic source is copyright-marked. Do not republish the entire base text. Independent second-pass philological and translation review remains outstanding, and no chapter is considered complete.
+
 ## READY-TO-PASTE NEXT CHAT PROMPT
 
-Continue Mahabharata (A Version of the AI Era) from the latest main of https://github.com/Ashish-Bhatia/Mahabharata. Read CONTINUITY.md and PROJECT_STATE.json first and preserve every existing passage. Verify the public site https://ashish-bhatia.github.io/Mahabharata/ and its GitHub Pages configuration: Deploy from a branch > main > /(root); do not create GitHub Actions workflows. Retrieve the BORI Critical Edition Ādi Parva original Sanskrit from https://bombay.indology.info/mahabharata/text/UD/MBh01.txt. Translate exactly verses 01.001.031 through 01.001.040 of Ādi Parva, Anukramaṇikā, Adhyāya 001, checking every source pāda and any speaker heading, with faithful separately labelled Sanskrit, English, Hindi, modern context and grounded teachings where justified. Atomically commit data/translations.json, CONTINUITY.md and PROJECT_STATE.json to main. Validate JSON, verse counts and source fidelity, preserve earlier work, report full new commit SHA and independent deployment verification status, and finish with the exact next prompt for 01.001.041–01.001.050.
+Continue Mahabharata (A Version of the AI Era) from the latest main branch of https://github.com/Ashish-Bhatia/Mahabharata. Read CONTINUITY.md and PROJECT_STATE.json first. Preserve every existing published passage and original project requirement. Verify https://ashish-bhatia.github.io/Mahabharata/ and GitHub Pages deployment source Deploy from a branch > main > /(root), reporting any unverifiable status honestly; do not create custom GitHub Actions workflows. Retrieve the BORI Critical Edition Sanskrit at https://bombay.indology.info/mahabharata/text/UD/MBh01.txt. Continue Ādi Parva, Anukramaṇikā, Adhyāya 001, translating exactly verses 01.001.041 through 01.001.050, with every Sanskrit pāda and speaker marker, faithful English and Hindi, separately labelled modern context and grounded teachings where appropriate. Verify each pāda against the electronic source, with no omissions, inventions, duplication or reordering. Atomically commit data/translations.json, CONTINUITY.md and PROJECT_STATE.json to main. Validate JSON, source fidelity, sequence, verse counts and reader compatibility. Report the new full commit SHA, publication range and deployment verification status, and finish with an exact new-chat continuation prompt for 01.001.051–01.001.060.

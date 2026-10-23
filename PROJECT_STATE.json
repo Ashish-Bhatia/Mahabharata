@@ -12,7 +12,7 @@
     "publicSiteVerified": false,
     "repositoryStructureVerified": true,
     "noCustomWorkflowsVerified": true,
-    "note": "Public repository advertises has_pages=true; main tree contains root index.html, .nojekyll and no .github/workflows paths. Direct Pages URL fetch was blocked and Pages branch/root settings are not readable with current access; public live availability and source settings remain unverified."
+    "note": "Repo main contains root index.html, .nojekyll and no .github directory; public GitHub Pages URL is blocked to the checker and GitHub Pages source settings were not available through connected GitHub tools. Branch main /(root) therefore remains an intended, not independently confirmed, deployment source. No custom workflow added."
   },
   "source": {
     "edition": "BORI Critical Edition",
@@ -29,18 +29,18 @@
     "subdivisionsProvisional": true
   },
   "publication": {
-    "passageCount": 31,
+    "passageCount": 41,
     "start": "01.001.000",
-    "last": "01.001.030",
+    "last": "01.001.040",
     "completedAdhyayas": 0,
-    "sanskritReview": "01.001.011–01.001.030 checked against BORI electronic verse lines in two batches; independent second-pass philological review still pending",
+    "sanskritReview": "01.001.011–01.001.040 checked against BORI electronic verse lines in three consecutive batches, including extra pādas 011e and 013e and speaker markers 015 and 020; independent second-pass philological and translation review still pending",
     "lastBatch": {
-      "start": "01.001.021",
-      "end": "01.001.030",
+      "start": "01.001.031",
+      "end": "01.001.040",
       "count": 10,
-      "sourceLineKeys": "01001021–01001030",
-      "commitMessage": "Translate Anukramanika 01.001.021-030 and advance checkpoints",
-      "baseMainCommit": "41de98eaa124bbd58771308c5db1bbfc41ed0b5c"
+      "sourceLineKeys": "01001031a–01001040c",
+      "commitMessage": "Translate Anukramanika 01.001.031-040 and advance checkpoints",
+      "baseMainCommit": "a215b91793ab6d0c733ecaf7289d3d2681b81da0"
     }
   },
   "next": {
@@ -48,8 +48,8 @@
     "parva": 1,
     "upaparva": "Anukramaṇikā",
     "adhyaya": 1,
-    "verseStart": "01.001.031",
-    "verseEndForNextBatch": "01.001.040"
+    "verseStart": "01.001.041",
+    "verseEndForNextBatch": "01.001.050"
   },
   "rules": [
     "Preserve exactly 18 parvas and source ordering.",

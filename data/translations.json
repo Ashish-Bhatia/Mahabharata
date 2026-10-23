@@ -1,7 +1,7 @@
 {
   "edition": "BORI Critical Edition, Sanskrit; John Smith/Muneo Tokunaga electronic text",
   "structure": "parva.adhyaya.verse",
-  "translatedThrough": "01.001.030",
+  "translatedThrough": "01.001.040",
   "passages": [
     {
       "verse": 0,
@@ -398,6 +398,232 @@
       "chapter": 1,
       "id": "01.001.030",
       "sourceId": "01001030"
+    },
+    {
+      "verse": 31,
+      "sanskrit": "प्राचेतसस्तथा दक्षो दक्षपुत्राश्च सप्त ये\nततः प्रजानां पतयः प्राभवन्नेकविंशतिः",
+      "english": "Dakṣa, descended from Pracetas, and the seven sons of Dakṣa also arose. Thereafter came into being twenty-one lords of created beings.",
+      "hindi": "प्रचेता के वंशज दक्ष और दक्ष के सात पुत्र भी उत्पन्न हुए। इसके बाद प्रजाओं के इक्कीस अधिपति प्रकट हुए।",
+      "contextEn": "The genealogy of creation continues from verse 30. Dakṣa, his seven sons and twenty-one progenitors are presented within the epic's traditional cosmology. The text does not name the seven sons here.",
+      "contextHi": "श्लोक 30 से सृष्टि की वंश-परंपरा आगे बढ़ती है। दक्ष, उनके सात पुत्र और इक्कीस प्रजापति इस पारंपरिक सृष्टि-वर्णन के अंग हैं। यहाँ सातों पुत्रों के नाम नहीं दिए गए हैं।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.031",
+      "sourceId": "01001031",
+      "padas": [
+        {
+          "sourceId": "01001031a",
+          "text": "प्राचेतसस्तथा दक्षो दक्षपुत्राश्च सप्त ये"
+        },
+        {
+          "sourceId": "01001031c",
+          "text": "ततः प्रजानां पतयः प्राभवन्नेकविंशतिः"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "sanskrit": "पुरुषश्चाप्रमेयात्मा यं सर्वमृषयो विदुः\nविश्वेदेवास्तथादित्या वसवोऽथाश्विनावपि",
+      "english": "And the Puruṣa of immeasurable nature, whom all the sages know; likewise the Viśvedevas, the Ādityas, the Vasus and the two Aśvins.",
+      "hindi": "फिर अप्रमेय स्वरूप वाले पुरुष, जिन्हें सभी ऋषि जानते हैं; इसी प्रकार विश्वेदेव, आदित्य, वसु और दोनों अश्विनीकुमार भी प्रकट हुए।",
+      "contextEn": "The verse lists the immeasurable Puruṣa and named classes of deities. The sense of their coming forth is carried forward from the preceding creation narrative; no new finite verb appears in this verse.",
+      "contextHi": "इस श्लोक में अप्रमेय पुरुष तथा देवताओं के विभिन्न गणों का उल्लेख है। इनके प्रकट होने का अर्थ पूर्ववर्ती सृष्टि-वर्णन से जुड़ता है; इस श्लोक में अलग से कोई नई मुख्य क्रिया नहीं आई है।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.032",
+      "sourceId": "01001032",
+      "padas": [
+        {
+          "sourceId": "01001032a",
+          "text": "पुरुषश्चाप्रमेयात्मा यं सर्वमृषयो विदुः"
+        },
+        {
+          "sourceId": "01001032c",
+          "text": "विश्वेदेवास्तथादित्या वसवोऽथाश्विनावपि"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "sanskrit": "यक्षाः साध्याः पिशाचाश्च गुह्यकाः पितरस्तथा\nततः प्रसूता विद्वांसः शिष्टा ब्रह्मर्षयोऽमलाः",
+      "english": "The Yakṣas, Sādhyas, Piśācas, Guhyakas and the ancestors (Pitṛs) as well; thereafter were born learned, disciplined and stainless brahmarṣis.",
+      "hindi": "यक्ष, साध्य, पिशाच, गुह्यक और पितृ भी प्रकट हुए। इसके बाद विद्वान, संयमी और निर्मल ब्रह्मर्षि उत्पन्न हुए।",
+      "contextEn": "The catalogue includes divine or supernatural communities, ancestral beings and brahmarṣis. 'Thereafter' indicates narrative sequence, not necessarily descent of the brahmarṣis from the beings just named.",
+      "contextHi": "इस गणना में विविध दैवी या अलौकिक समुदाय, पितृगण और ब्रह्मर्षि आते हैं। 'इसके बाद' कथन के क्रम को दर्शाता है; इससे यह सिद्ध नहीं होता कि ब्रह्मर्षि पहले बताए सभी गणों से उत्पन्न हुए।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.033",
+      "sourceId": "01001033",
+      "padas": [
+        {
+          "sourceId": "01001033a",
+          "text": "यक्षाः साध्याः पिशाचाश्च गुह्यकाः पितरस्तथा"
+        },
+        {
+          "sourceId": "01001033c",
+          "text": "ततः प्रसूता विद्वांसः शिष्टा ब्रह्मर्षयोऽमलाः"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "sanskrit": "राजर्षयश्च बहवः सर्वैः समुदिता गुणैः\nआपो द्यौः पृथिवी वायुरन्तरिक्षं दिशस्तथा",
+      "english": "And many royal sages, endowed with every virtue; and waters, heaven, earth, wind, the space between heaven and earth, and the directions.",
+      "hindi": "और सभी गुणों से संपन्न अनेक राजर्षि; साथ ही जल, द्युलोक, पृथ्वी, वायु, अंतरिक्ष तथा दिशाएँ भी प्रकट हुईं।",
+      "contextEn": "The account moves from sages to elements and regions of the cosmos. These are categories in an ancient cosmological enumeration, not a description of modern physical chronology.",
+      "contextHi": "वर्णन राजर्षियों से आगे बढ़कर जल, आकाशीय लोक, पृथ्वी, वायु, अंतरिक्ष और दिशाओं तक पहुँचता है। यह प्राचीन सृष्टि-वर्णन की गणना है, आधुनिक भौतिक कालक्रम नहीं।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.034",
+      "sourceId": "01001034",
+      "padas": [
+        {
+          "sourceId": "01001034a",
+          "text": "राजर्षयश्च बहवः सर्वैः समुदिता गुणैः"
+        },
+        {
+          "sourceId": "01001034c",
+          "text": "आपो द्यौः पृथिवी वायुरन्तरिक्षं दिशस्तथा"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "sanskrit": "संवत्सरर्तवो मासाः पक्षाहोरात्रयः क्रमात्\nयच्चान्यदपि तत्सर्वं संभूतं लोकसाक्षिकम्",
+      "english": "The year, seasons, months, fortnights, and days and nights, in due order; whatever else is evident in the world, all of it came into being.",
+      "hindi": "क्रम से वर्ष, ऋतुएँ, महीने, पक्ष तथा दिन और रात भी उत्पन्न हुए। संसार में जो कुछ और प्रत्यक्ष है, वह सब भी अस्तित्व में आया।",
+      "contextEn": "The sequence adds measures of time to the cosmic inventory. The Sanskrit groups day and night as a pair (ahorātra); the list concludes by including everything else witnessed in the world.",
+      "contextHi": "सृष्टि की सूची में अब समय के विभाग भी जुड़ते हैं। संस्कृत 'अहोरात्र' में दिन और रात को साथ रखती है। अंत में संसार की अन्य सभी प्रत्यक्ष वस्तुओं को समाहित किया गया है।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.035",
+      "sourceId": "01001035",
+      "padas": [
+        {
+          "sourceId": "01001035a",
+          "text": "संवत्सरर्तवो मासाः पक्षाहोरात्रयः क्रमात्"
+        },
+        {
+          "sourceId": "01001035c",
+          "text": "यच्चान्यदपि तत्सर्वं संभूतं लोकसाक्षिकम्"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "sanskrit": "यदिदं दृश्यते किंचिद्भूतं स्थावरजङ्गमम्\nपुनः संक्षिप्यते सर्वं जगत्प्राप्ते युगक्षये",
+      "english": "Whatever exists here and is seen, whether stationary or moving, the entire world is gathered back in when the end of an age arrives.",
+      "hindi": "यहाँ जो कुछ दिखाई देता है, स्थावर हो या जंगम, युग का अंत आने पर यह समूचा जगत फिर समेट लिया जाता है।",
+      "contextEn": "The narrative turns from manifestation to dissolution at the end of a yuga. 'Stationary and moving' is a traditional distinction covering forms of existence; this is a cosmological claim made by the text.",
+      "contextHi": "वर्णन सृष्टि से युगांत के समय उसके संहार की ओर मुड़ता है। 'स्थावर और जंगम' अस्तित्व के विभिन्न रूपों का पारंपरिक वर्गीकरण है; यह ग्रंथ की सृष्टि-संबंधी धारणा है।",
+      "teachingEn": "Remember that the forms and arrangements of the world are subject to change.",
+      "teachingHi": "संसार के रूप और व्यवस्थाएँ परिवर्तनशील हैं, इस बात को ध्यान में रखें।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.036",
+      "sourceId": "01001036",
+      "padas": [
+        {
+          "sourceId": "01001036a",
+          "text": "यदिदं दृश्यते किंचिद्भूतं स्थावरजङ्गमम्"
+        },
+        {
+          "sourceId": "01001036c",
+          "text": "पुनः संक्षिप्यते सर्वं जगत्प्राप्ते युगक्षये"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "sanskrit": "यथर्तावृतुलिङ्गानि नानारूपाणि पर्यये\nदृश्यन्ते तानि तान्येव तथा भावा युगादिषु",
+      "english": "Just as the varied signs of the seasons appear again and again as they succeed one another, so do forms of existence appear at the beginnings of ages.",
+      "hindi": "जैसे ऋतुओं के बदलने पर उनके विविध लक्षण बार-बार दिखाई देते हैं, वैसे ही युगों के आरंभ में अस्तित्व के रूप फिर प्रकट होते हैं।",
+      "contextEn": "The recurring signs of the seasons provide the poem's analogy for recurrence across world-ages. The comparison is poetic and cosmological, not a claim that historical events repeat in identical detail.",
+      "contextHi": "ऋतुओं के लक्षणों की पुनरावृत्ति युगों में अस्तित्व के फिर प्रकट होने की उपमा है। यह काव्यात्मक और सृष्टि-संबंधी तुलना है, इतिहास की हर घटना के हूबहू दोहरने का दावा नहीं।",
+      "teachingEn": "Use recurring natural patterns as an occasion for reflection, without assuming every future event will be identical.",
+      "teachingHi": "प्रकृति के आवर्ती क्रम से विचार की प्रेरणा लें, पर यह न मानें कि भविष्य की हर घटना बिल्कुल वैसी ही होगी।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.037",
+      "sourceId": "01001037",
+      "padas": [
+        {
+          "sourceId": "01001037a",
+          "text": "यथर्तावृतुलिङ्गानि नानारूपाणि पर्यये"
+        },
+        {
+          "sourceId": "01001037c",
+          "text": "दृश्यन्ते तानि तान्येव तथा भावा युगादिषु"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "sanskrit": "एवमेतदनाद्यन्तं भूतसंहारकारकम्\nअनादिनिधनं लोके चक्रं संपरिवर्तते",
+      "english": "Thus this wheel, bringing about the dissolution of beings, continues to turn in the world, without beginning or end, without origin or cessation.",
+      "hindi": "इस प्रकार प्राणियों के संहार का कारण बनने वाला यह चक्र संसार में घूमता रहता है। उसका न कोई आरंभ है, न अंत; न उत्पत्ति, न अंतिम समाप्ति।",
+      "contextEn": "The Sanskrit twice emphasizes the wheel's beginningless and endless character. It extends the preceding descriptions of formation, dissolution and renewed appearance into a cyclical conception of cosmic time.",
+      "contextHi": "संस्कृत इस चक्र के आदि और अंत से रहित होने को दो बार अलग पदों में स्पष्ट करती है। यह पहले बताए गए उत्पत्ति, संहार और पुनः प्रकट होने के क्रम को चक्रीय काल-दृष्टि में जोड़ता है।",
+      "teachingEn": "Recognize impermanence within the cycles of change described here.",
+      "teachingHi": "यहाँ वर्णित परिवर्तन के चक्र में अनित्यता को समझें।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.038",
+      "sourceId": "01001038",
+      "padas": [
+        {
+          "sourceId": "01001038a",
+          "text": "एवमेतदनाद्यन्तं भूतसंहारकारकम्"
+        },
+        {
+          "sourceId": "01001038c",
+          "text": "अनादिनिधनं लोके चक्रं संपरिवर्तते"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "sanskrit": "त्रयस्त्रिंशत्सहस्राणि त्रयस्त्रिंशच्छतानि च\nत्रयस्त्रिंशच्च देवानां सृष्टिः संक्षेपलक्षणा",
+      "english": "Thirty-three thousand, thirty-three hundreds and thirty-three: this, in brief, is the enumeration of the gods brought into being.",
+      "hindi": "तैंतीस हजार, तैंतीस सौ और तैंतीस, इस प्रकार उत्पन्न देवताओं की संख्या का संक्षेप में वर्णन किया गया है।",
+      "contextEn": "The stated figures add up arithmetically to 36,333. This is the number given in this passage's enumeration, not a general claim that every Hindu textual tradition uses the same count.",
+      "contextHi": "इन संख्याओं का गणितीय योग 36,333 है। यह इसी श्लोक में दी गई देवताओं की संक्षिप्त गणना है; सभी हिंदू ग्रंथों में एक ही संख्या होने का सार्वभौमिक दावा नहीं।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.039",
+      "sourceId": "01001039",
+      "padas": [
+        {
+          "sourceId": "01001039a",
+          "text": "त्रयस्त्रिंशत्सहस्राणि त्रयस्त्रिंशच्छतानि च"
+        },
+        {
+          "sourceId": "01001039c",
+          "text": "त्रयस्त्रिंशच्च देवानां सृष्टिः संक्षेपलक्षणा"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "sanskrit": "दिवस्पुत्रो बृहद्भानुश्चक्षुरात्मा विभावसुः\nसविता च ऋचीकोऽर्को भानुराशावहो रविः",
+      "english": "Divasputra, Bṛhadbhānu, Cakṣurātmā, Vibhāvasu, Savitā, Ṛcīka, Arka, Bhānu, Āśāvaha and Ravi are named.",
+      "hindi": "दिवस्पुत्र, बृहद्भानु, चक्षुरात्मा, विभावसु, सविता, ऋचीक, अर्क, भानु, आशावह और रवि, इन नामों का उल्लेख किया गया है।",
+      "contextEn": "This verse begins a specific list of names associated with the cosmic and solar genealogy. Verse 41 continues the sentence and identifies the figures as sons of Vivasvat; the present verse does not independently state their relationship.",
+      "contextHi": "यह श्लोक ब्रह्मांडीय और सूर्य-संबंधी वंश-वर्णन के नामों की सूची शुरू करता है। श्लोक 41 इस कथन को आगे बढ़ाकर इन्हें विवस्वान के पुत्र बताता है; इस श्लोक में अकेले उनका पारिवारिक संबंध नहीं बताया गया।",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.040",
+      "sourceId": "01001040",
+      "padas": [
+        {
+          "sourceId": "01001040a",
+          "text": "दिवस्पुत्रो बृहद्भानुश्चक्षुरात्मा विभावसुः"
+        },
+        {
+          "sourceId": "01001040c",
+          "text": "सविता च ऋचीकोऽर्को भानुराशावहो रविः"
+        }
+      ]
     }
   ]
 }
