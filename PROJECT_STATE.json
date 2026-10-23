@@ -9,10 +9,16 @@
     "root": "/",
     "customGitHubActions": false,
     "pagesSettingConfirmed": false,
-    "publicSiteVerified": false,
+    "publicSiteVerified": true,
     "repositoryStructureVerified": true,
     "noCustomWorkflowsVerified": true,
-    "note": "Repo main contains root index.html, .nojekyll and no .github directory; public GitHub Pages URL is blocked to the checker and GitHub Pages source settings were not available through connected GitHub tools. Branch main /(root) therefore remains an intended, not independently confirmed, deployment source. No custom workflow added."
+    "note": "Public Pages root, app.js and data/translations.json each returned HTTP 200 on 23 October 2026; the live pre-commit dataset matched the previous main checkpoint with 41 passages through 01.001.040. The web-search checker could not open the site, but direct HTTPS retrieval succeeded. The connector rejects the Pages settings endpoint and its unauthenticated REST request returned 404, so Deploy from a branch > main > /(root) remains intended, not independently confirmed. Root index.html and .nojekyll are present; no custom workflow exists or was added. Verify post-commit data delivery separately from repository publication.",
+    "preCommitLiveData": {
+      "translatedThrough": "01.001.040",
+      "passageCount": 41,
+      "httpStatus": 200,
+      "date": "2026-10-23"
+    }
   },
   "source": {
     "edition": "BORI Critical Edition",
@@ -29,18 +35,30 @@
     "subdivisionsProvisional": true
   },
   "publication": {
-    "passageCount": 41,
+    "passageCount": 51,
     "start": "01.001.000",
-    "last": "01.001.040",
+    "last": "01.001.050",
     "completedAdhyayas": 0,
-    "sanskritReview": "01.001.011–01.001.040 checked against BORI electronic verse lines in three consecutive batches, including extra pādas 011e and 013e and speaker markers 015 and 020; independent second-pass philological and translation review still pending",
+    "sanskritReview": "01.001.011–01.001.050 checked against consecutive BORI electronic source lines, including extra lines 011e and 013e and speaker markers 015 and 020. The 041–050 batch exactly matches all 20 source lines, with continuing Sūta attribution and no new speaker marker; independent second-pass philological and translation review remains pending.",
     "lastBatch": {
-      "start": "01.001.031",
-      "end": "01.001.040",
+      "start": "01.001.041",
+      "end": "01.001.050",
       "count": 10,
-      "sourceLineKeys": "01001031a–01001040c",
-      "commitMessage": "Translate Anukramanika 01.001.031-040 and advance checkpoints",
-      "baseMainCommit": "a215b91793ab6d0c733ecaf7289d3d2681b81da0"
+      "sourceLineKeys": "01001041a–01001050c",
+      "sourceLineCount": 20,
+      "sourceBookSHA256": "e8a8c8f6f586f070ed8c2f24bd4888eebadd751aca9464372ec34c2200bfa592",
+      "commitMessage": "Translate Anukramanika 01.001.041-050 and advance checkpoints",
+      "baseMainCommit": "c67221f509719282bfda5bee2d4ca8862260b870",
+      "speakerContinuesFrom": "01.001.020",
+      "earlierPassagesPreserved": 41,
+      "validation": {
+        "jsonIntegrity": true,
+        "sequentialUniquePassageIds": 51,
+        "exactSanskritSourceLines": 20,
+        "earlierPassagesUnchanged": 41,
+        "readerDOMRuntime": "passed: actual app.js with local data-file fetch adapter, 51 rendered passages, exact Sanskrit/English/Hindi, separate context and teaching, bilingual controls, search, chapter navigation and menu",
+        "visualBrowserQA": "not run: browser executable unavailable and its download failed"
+      }
     }
   },
   "next": {
@@ -48,8 +66,8 @@
     "parva": 1,
     "upaparva": "Anukramaṇikā",
     "adhyaya": 1,
-    "verseStart": "01.001.041",
-    "verseEndForNextBatch": "01.001.050"
+    "verseStart": "01.001.051",
+    "verseEndForNextBatch": "01.001.060"
   },
   "rules": [
     "Preserve exactly 18 parvas and source ordering.",

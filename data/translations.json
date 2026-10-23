@@ -1,7 +1,7 @@
 {
   "edition": "BORI Critical Edition, Sanskrit; John Smith/Muneo Tokunaga electronic text",
   "structure": "parva.adhyaya.verse",
-  "translatedThrough": "01.001.040",
+  "translatedThrough": "01.001.050",
   "passages": [
     {
       "verse": 0,
@@ -624,6 +624,288 @@
           "text": "सविता च ऋचीकोऽर्को भानुराशावहो रविः"
         }
       ]
+    },
+    {
+      "verse": 41,
+      "english": "All these were sons of Vivasvat, and Mahya was the youngest among them. His son was Devabhrāṭ; from him came the one remembered as Subhrāṭ.",
+      "hindi": "ये सभी विवस्वान के पुत्र थे और उनमें मह्य सबसे छोटे थे। मह्य के पुत्र देवभ्राट् थे और देवभ्राट् से उत्पन्न पुत्र सुभ्राट् नाम से प्रसिद्ध हुए।",
+      "contextEn": "This completes the list begun in verse 40 and continues the traditional genealogy through Mahya, Devabhrāṭ and Subhrāṭ. The relationships belong to the epic's account of origins.",
+      "contextHi": "यह श्लोक पिछले श्लोक की नामावली पूरी करता है और मह्य, देवभ्राट् तथा सुभ्राट् तक वंश-क्रम बताता है। ये संबंध महाकाव्य के पारंपरिक उत्पत्ति-वर्णन का अंग हैं।",
+      "sanskrit": "पुत्रा विवस्वतः सर्वे मह्यस्तेषां तथावरः\nदेवभ्राट्तनयस्तस्य तस्मात्सुभ्राडिति स्मृतः",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.041",
+      "sourceId": "01001041",
+      "padas": [
+        {
+          "sourceId": "01001041a",
+          "text": "पुत्रा विवस्वतः सर्वे मह्यस्तेषां तथावरः"
+        },
+        {
+          "sourceId": "01001041c",
+          "text": "देवभ्राट्तनयस्तस्य तस्मात्सुभ्राडिति स्मृतः"
+        }
+      ],
+      "speaker": {
+        "nameEn": "Sūta",
+        "nameHi": "सूत",
+        "continuesFrom": "01.001.020",
+        "sourceId": "01001020"
+      }
+    },
+    {
+      "verse": 42,
+      "english": "Subhrāṭ had three widely learned sons, all possessing offspring: Daśajyotis, Śatajyotis and the self-possessed Sahasrajyotis.",
+      "hindi": "सुभ्राट् के तीन बहुश्रुत और संतानवान पुत्र थे: दशज्योति, शतज्योति और आत्मसंयमी सहस्रज्योति।",
+      "contextEn": "The three sons are described as learned and as having descendants. The final adjective, ātmavān, qualifies Sahasrajyotis and conveys self-possession or self-mastery.",
+      "contextHi": "तीनों पुत्रों को बहुश्रुत और संतानवान कहा गया है। अंत का विशेषण ‘आत्मवान्’ सहस्रज्योति के लिए है और आत्मसंयम या अपने ऊपर अधिकार का भाव रखता है।",
+      "sanskrit": "सुभ्राजस्तु त्रयः पुत्राः प्रजावन्तो बहुश्रुताः\nदशज्योतिः शतज्योतिः सहस्रज्योतिरात्मवान्",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.042",
+      "sourceId": "01001042",
+      "padas": [
+        {
+          "sourceId": "01001042a",
+          "text": "सुभ्राजस्तु त्रयः पुत्राः प्रजावन्तो बहुश्रुताः"
+        },
+        {
+          "sourceId": "01001042c",
+          "text": "दशज्योतिः शतज्योतिः सहस्रज्योतिरात्मवान्"
+        }
+      ],
+      "speaker": {
+        "nameEn": "Sūta",
+        "nameHi": "सूत",
+        "continuesFrom": "01.001.020",
+        "sourceId": "01001020"
+      }
+    },
+    {
+      "verse": 43,
+      "english": "The noble Daśajyotis had ten thousand sons. Here Śatajyotis had ten times as many offspring.",
+      "hindi": "महात्मा दशज्योति के दस हजार पुत्र थे। शतज्योति की संतान उनसे दस गुनी थी।",
+      "contextEn": "The stated figures are 10,000 for Daśajyotis and, by the tenfold comparison, 100,000 for Śatajyotis. These are the numbers of the traditional genealogy; verse 44 continues the progression.",
+      "contextHi": "दशज्योति के 10,000 पुत्र बताए गए हैं। दस गुने की तुलना से शतज्योति की संतान की संख्या 1,00,000 होती है। ये पारंपरिक वंश-वर्णन की संख्याएँ हैं; अगले श्लोक में यही क्रम आगे बढ़ता है।",
+      "sanskrit": "दश पुत्रसहस्राणि दशज्योतेर्महात्मनः\nततो दशगुणाश्चान्ये शतज्योतेरिहात्मजाः",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.043",
+      "sourceId": "01001043",
+      "padas": [
+        {
+          "sourceId": "01001043a",
+          "text": "दश पुत्रसहस्राणि दशज्योतेर्महात्मनः"
+        },
+        {
+          "sourceId": "01001043c",
+          "text": "ततो दशगुणाश्चान्ये शतज्योतेरिहात्मजाः"
+        }
+      ],
+      "speaker": {
+        "nameEn": "Sūta",
+        "nameHi": "सूत",
+        "continuesFrom": "01.001.020",
+        "sourceId": "01001020"
+      }
+    },
+    {
+      "verse": 44,
+      "english": "The sons of Sahasrajyotis were ten times as numerous again. From these descended this lineage of Kuru and those of the Yadus and Bharata…",
+      "hindi": "सहस्रज्योति के पुत्र फिर उनसे दस गुने थे। इन्हीं से यह कुरुवंश, यदुओं और भरत के वंश…",
+      "contextEn": "The further tenfold increase gives 1,000,000 sons within this account. The lineage sentence continues into verse 45; the verb translated as 'descended' is completed there. Kuru, Yadu and Bharata connect the cosmic genealogy with the families of the epic.",
+      "contextHi": "पिछली संख्या से फिर दस गुने होने पर इस वर्णन में सहस्रज्योति के पुत्रों की संख्या 10,00,000 होती है। वंशों वाला वाक्य अगले श्लोक में पूरा होता है। कुरु, यदु और भरत के नाम इस सृष्टि-संबंधी वंश-क्रम को महाकाव्य के कुलों से जोड़ते हैं।",
+      "sanskrit": "भूयस्ततो दशगुणाः सहस्रज्योतिषः सुताः\nतेभ्योऽयं कुरुवंशश्च यदूनां भरतस्य च",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.044",
+      "sourceId": "01001044",
+      "padas": [
+        {
+          "sourceId": "01001044a",
+          "text": "भूयस्ततो दशगुणाः सहस्रज्योतिषः सुताः"
+        },
+        {
+          "sourceId": "01001044c",
+          "text": "तेभ्योऽयं कुरुवंशश्च यदूनां भरतस्य च"
+        }
+      ],
+      "speaker": {
+        "nameEn": "Sūta",
+        "nameHi": "सूत",
+        "continuesFrom": "01.001.020",
+        "sourceId": "01001020"
+      }
+    },
+    {
+      "verse": 45,
+      "english": "…and the lineages of Yayāti and Ikṣvāku, and those of all the royal sages. Many lineages came into being, along with extensive generations of living beings.",
+      "hindi": "…और ययाति तथा इक्ष्वाकु के वंश और सभी राजर्षियों के वंश उत्पन्न हुए। अनेक वंश और जीवों की विस्तृत संततियाँ प्रकट हुईं।",
+      "contextEn": "This completes the preceding verse's enumeration. Rājarṣi means a royal sage, a ruler described in the language of spiritual attainment. The account moves from named dynasties toward the wider range of beings and subjects treated in the work.",
+      "contextHi": "यह पिछले श्लोक की वंश-सूची को पूरा करता है। ‘राजर्षि’ ऐसे राजा के लिए प्रयुक्त है जिन्हें ऋषि-सदृश आध्यात्मिक प्रतिष्ठा प्राप्त हो। प्रसंग अब विशेष राजवंशों से आगे जीवों और ग्रंथ के व्यापक विषयों की ओर बढ़ता है।",
+      "sanskrit": "ययातीक्ष्वाकुवंशश्च राजर्षीणां च सर्वशः\nसंभूता बहवो वंशा भूतसर्गाः सविस्तराः",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.045",
+      "sourceId": "01001045",
+      "padas": [
+        {
+          "sourceId": "01001045a",
+          "text": "ययातीक्ष्वाकुवंशश्च राजर्षीणां च सर्वशः"
+        },
+        {
+          "sourceId": "01001045c",
+          "text": "संभूता बहवो वंशा भूतसर्गाः सविस्तराः"
+        }
+      ],
+      "speaker": {
+        "nameEn": "Sūta",
+        "nameHi": "सूत",
+        "continuesFrom": "01.001.020",
+        "sourceId": "01001020"
+      }
+    },
+    {
+      "verse": 46,
+      "english": "All the dwelling places of beings, the threefold mystery, the Veda and Yoga together with discerning knowledge, right conduct (dharma), material well-being (artha) and desire (kāma)…",
+      "hindi": "प्राणियों के सभी निवास-स्थान, त्रिविध रहस्य, विज्ञान सहित वेद और योग, तथा धर्म, अर्थ और काम…",
+      "contextEn": "The catalogue turns to sacred knowledge and human aims and continues in verse 47. Vijñāna is rendered as discerning knowledge here. The verse calls the mystery threefold without spelling out its divisions in a separate explanatory sentence.",
+      "contextHi": "यहाँ सूची पवित्र ज्ञान और मानव जीवन के उद्देश्यों की ओर मुड़ती है तथा अगले श्लोक में जारी रहती है। ‘विज्ञान’ को यहाँ विवेकपूर्ण ज्ञान के अर्थ में समझा गया है। श्लोक रहस्य को त्रिविध कहता है, पर उसके विभागों का अलग व्याख्यात्मक वाक्य नहीं देता।",
+      "sanskrit": "भूतस्थानानि सर्वाणि रहस्यं त्रिविधं च यत्\nवेदयोगं सविज्ञानं धर्मोऽर्थः काम एव च",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.046",
+      "sourceId": "01001046",
+      "padas": [
+        {
+          "sourceId": "01001046a",
+          "text": "भूतस्थानानि सर्वाणि रहस्यं त्रिविधं च यत्"
+        },
+        {
+          "sourceId": "01001046c",
+          "text": "वेदयोगं सविज्ञानं धर्मोऽर्थः काम एव च"
+        }
+      ],
+      "speaker": {
+        "nameEn": "Sūta",
+        "nameHi": "सूत",
+        "continuesFrom": "01.001.020",
+        "sourceId": "01001020"
+      }
+    },
+    {
+      "verse": 47,
+      "english": "Treatises on dharma, kāma and artha, and various other treatises, and the ordering of life in the world: the sage beheld all this as it had come into being.",
+      "hindi": "धर्म, काम और अर्थ के शास्त्र, अन्य विविध शास्त्र और लोकजीवन की व्यवस्था, ऋषि ने इन सबको उत्पन्न हुआ देखा।",
+      "contextEn": "This supplies the verb governing the catalogue begun in verse 46. The sage is Vyāsa in this account. Lokayātrā concerns the conduct and maintenance of life in the world, so the stated scope includes both sacred learning and practical social life.",
+      "contextHi": "यह श्लोक पिछले श्लोक में शुरू हुई सूची की मुख्य क्रिया देता है। यहाँ ऋषि से आशय व्यास है। ‘लोकयात्रा’ संसार में जीवन के संचालन और निर्वाह से संबंधित है; इसलिए बताए गए विषयों में पवित्र विद्या और व्यावहारिक सामाजिक जीवन दोनों आते हैं।",
+      "sanskrit": "धर्मकामार्थशास्त्राणि शास्त्राणि विविधानि च\nलोकयात्राविधानं च संभूतं दृष्टवानृषिः",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.047",
+      "sourceId": "01001047",
+      "padas": [
+        {
+          "sourceId": "01001047a",
+          "text": "धर्मकामार्थशास्त्राणि शास्त्राणि विविधानि च"
+        },
+        {
+          "sourceId": "01001047c",
+          "text": "लोकयात्राविधानं च संभूतं दृष्टवानृषिः"
+        }
+      ],
+      "speaker": {
+        "nameEn": "Sūta",
+        "nameHi": "सूत",
+        "continuesFrom": "01.001.020",
+        "sourceId": "01001020"
+      }
+    },
+    {
+      "verse": 48,
+      "english": "Histories with their explanations, and diverse sacred revelations as well: all this has been set forth here in sequence. The character of the work has been stated.",
+      "hindi": "व्याख्याओं सहित इतिहास और विविध श्रुतियाँ भी। यहाँ इन सबका क्रम से उल्लेख किया गया है; इस प्रकार ग्रंथ का स्वरूप बताया गया है।",
+      "contextEn": "Histories, explanations and śrutis complete the survey of the work's subjects. An introductory account of scope helps readers approach a long text while recognising its different forms of knowledge.",
+      "contextHi": "इतिहास, व्याख्याएँ और श्रुतियाँ ग्रंथ के विषयों की इस रूपरेखा को पूरा करते हैं। विषयों का आरंभिक परिचय पाठक को लंबे ग्रंथ और उसमें समाहित ज्ञान के विभिन्न रूपों को समझने में सहायता देता है।",
+      "sanskrit": "इतिहासाः सवैयाख्या विविधाः श्रुतयोऽपि च\nइह सर्वमनुक्रान्तमुक्तं ग्रन्थस्य लक्षणम्",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.048",
+      "sourceId": "01001048",
+      "padas": [
+        {
+          "sourceId": "01001048a",
+          "text": "इतिहासाः सवैयाख्या विविधाः श्रुतयोऽपि च"
+        },
+        {
+          "sourceId": "01001048c",
+          "text": "इह सर्वमनुक्रान्तमुक्तं ग्रन्थस्य लक्षणम्"
+        }
+      ],
+      "speaker": {
+        "nameEn": "Sūta",
+        "nameHi": "सूत",
+        "continuesFrom": "01.001.020",
+        "sourceId": "01001020"
+      }
+    },
+    {
+      "verse": 49,
+      "english": "Having unfolded this great knowledge in detail, the sage stated it in brief. For learned people in the world value retaining both the summary and the full exposition.",
+      "hindi": "इस महान ज्ञान का विस्तार करके ऋषि ने उसका संक्षेप कहा। संसार के विद्वानों को संक्षेप और विस्तार, दोनों धारण करना प्रिय है।",
+      "contextEn": "The text explains why it offers both a broad account and a summary. In study today, an overview helps organise information, while the full account supplies the detail needed to check understanding.",
+      "contextHi": "श्लोक बताता है कि विस्तार और संक्षेप दोनों क्यों दिए जाते हैं। आज के अध्ययन में भी रूपरेखा विषयों को व्यवस्थित करने में सहायता देती है और विस्तृत पाठ समझ की जाँच के लिए आवश्यक विवरण देता है।",
+      "teachingEn": "Retain both the overview and the detailed account when studying a substantial subject.",
+      "teachingHi": "किसी बड़े विषय का अध्ययन करते समय उसकी रूपरेखा और विस्तृत विवेचन, दोनों को समझकर धारण करें।",
+      "sanskrit": "विस्तीर्यैतन्महज्ज्ञानमृषिः संक्षेपमब्रवीत्\nइष्टं हि विदुषां लोके समासव्यासधारणम्",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.049",
+      "sourceId": "01001049",
+      "padas": [
+        {
+          "sourceId": "01001049a",
+          "text": "विस्तीर्यैतन्महज्ज्ञानमृषिः संक्षेपमब्रवीत्"
+        },
+        {
+          "sourceId": "01001049c",
+          "text": "इष्टं हि विदुषां लोके समासव्यासधारणम्"
+        }
+      ],
+      "speaker": {
+        "nameEn": "Sūta",
+        "nameHi": "सूत",
+        "continuesFrom": "01.001.020",
+        "sourceId": "01001020"
+      }
+    },
+    {
+      "verse": 50,
+      "english": "Some brahmins study the Bhārata in due form beginning with Manu, others with Āstīka, and still others with Uparicara.",
+      "hindi": "कुछ ब्राह्मण मनु से आरम्भ होने वाले भारत का विधिपूर्वक अध्ययन करते हैं, दूसरे आस्तीक से और अन्य उपरिचर से आरम्भ होने वाले भारत का।",
+      "contextEn": "The verse records different recognised starting points for studying and reciting the epic. Manu, Āstīka and Uparicara identify these narrative openings. This helps readers understand the account's own acknowledgement of diversity in its transmission.",
+      "contextHi": "यह श्लोक महाकाव्य के अध्ययन और पाठ के अलग-अलग मान्य आरंभ बताता है। मनु, आस्तीक और उपरिचर उन कथा-आरंभों की पहचान हैं। इससे पाठक समझते हैं कि ग्रंथ का यह परिचय स्वयं अपनी पाठ-परंपरा की विविधता को स्वीकार करता है।",
+      "sanskrit": "मन्वादि भारतं केचिदास्तीकादि तथापरे\nतथोपरिचराद्यन्ये विप्राः सम्यगधीयते",
+      "parva": 1,
+      "chapter": 1,
+      "id": "01.001.050",
+      "sourceId": "01001050",
+      "padas": [
+        {
+          "sourceId": "01001050a",
+          "text": "मन्वादि भारतं केचिदास्तीकादि तथापरे"
+        },
+        {
+          "sourceId": "01001050c",
+          "text": "तथोपरिचराद्यन्ये विप्राः सम्यगधीयते"
+        }
+      ],
+      "speaker": {
+        "nameEn": "Sūta",
+        "nameHi": "सूत",
+        "continuesFrom": "01.001.020",
+        "sourceId": "01001020"
+      }
     }
   ]
 }
